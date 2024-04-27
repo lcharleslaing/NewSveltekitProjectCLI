@@ -1,0 +1,21 @@
+{
+  "name": "newsveltekitprojectcli",
+  "version": "1.0.0",
+  "description": "A CLI tool that sets up Sveltekit projects just the way I like them.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "\"test\": \"some-test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http:/"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Lee CharlesLaing <lcharleslaing@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
